@@ -1,0 +1,2 @@
+# Prevent GitHub Pages from running Jekyll so files with leading underscores
+# (e.g., Vite helper chunks) are served correctly.
